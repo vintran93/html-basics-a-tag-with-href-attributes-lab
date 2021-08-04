@@ -51,23 +51,13 @@ Once you have the HTML document open in your browser, you can make changes to it
 in a text editor, save the file, refresh the page in the browser, and see the
 changes.
 
-> **Note:** If you are using the Learn.co in-browser IDE, in the terminal, type
-> `httpserver`. The terminal will output a URL, something like:
-
-> ```text
-> http://67.205.188.72:40978
-> ```
-
-> Copy this into a new browser window or tab to view the `index.html` file. For
-> more information, [check out this help article](http://help.learn.co/the-learn-ide/common-ide-questions/viewing-html-pages-in-the-learn-ide).
-
 ## Resources
 
-* [Mozilla Developer Network: HTML `<a>` Tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)
+- [Mozilla Developer Network: HTML `<a>` Tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)
 
 ## Conclusion
 
 Here we saw how an attribute helps the `a` tag do its job, which is to link to
 another location. Now we can go on to explore some additional HTML tags.
 
-[pview]: http://help.learn.co/the-learn-ide/common-ide-questions/viewing-html-pages-in-the-learn-ide  
+[pview]: http://help.learn.co/the-learn-ide/common-ide-questions/viewing-html-pages-in-the-learn-ide
